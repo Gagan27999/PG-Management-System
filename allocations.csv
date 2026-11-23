@@ -1,0 +1,60 @@
+line_no,resident_id,status,bed_id,message
+3,RES-001,ALLOCATED,PG-01-R103-B1,Bed allocated
+4,RES-002,ALLOCATED,PG-01-R103-B2,Bed allocated
+5,RES-004,ALLOCATED,PG-03-R101-B1,Bed allocated
+6,RES-005,ALLOCATED,PG-03-R303-B1,Bed allocated
+7,RES-028,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+8,RES-045,ALLOCATED,PG-02-R101-B1,Bed allocated
+9,RES-046,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+10,RES-003,ALLOCATED,PG-01-R103-B3,Bed allocated
+11,RES-024,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+12,RES-032,ALLOCATED,PG-02-R202-B1,Bed allocated
+13,RES-006,ALLOCATED,PG-03-R203-B1,Bed allocated
+14,RES-012,ALLOCATED,PG-01-R102-B1,Bed allocated
+15,RES-041,ALLOCATED,PG-01-R203-B1,Bed allocated
+16,RES-049,ALLOCATED,PG-02-R101-B2,Bed allocated
+17,RES-007,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+18,RES-031,ALLOCATED,PG-01-R303-B1,Bed allocated
+19,RES-034,ALLOCATED,PG-03-R201-B1,Bed allocated
+20,RES-009,ALLOCATED,PG-02-R102-B1,Bed allocated
+21,RES-009,REJECTED,NONE,Duplicate ONBOARD
+22,RES-013,ALLOCATED,PG-03-R201-B2,Bed allocated
+23,RES-030,ALLOCATED,PG-02-R203-B1,Bed allocated
+24,RES-035,ALLOCATED,PG-03-R103-B1,Bed allocated
+25,RES-042,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+26,RES-014,ALLOCATED,PG-02-R302-B1,Bed allocated
+27,RES-021,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+28,RES-023,ALLOCATED,PG-03-R102-B1,Bed allocated
+29,RES-047,ALLOCATED,PG-02-R201-B1,Bed allocated
+30,RES-010,ALLOCATED,PG-01-R302-B1,Bed allocated
+31,RES-018,ALLOCATED,PG-01-R101-B1,Bed allocated
+32,RES-033,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+33,RES-011,ALLOCATED,PG-02-R202-B2,Bed allocated
+35,RES-011,CHANGED,PG-02-R203-B2,Room changed; fee Rs 0.00
+37,RES-016,ALLOCATED,PG-02-R102-B2,Bed allocated
+41,RES-022,ALLOCATED,PG-03-R102-B2,Bed allocated
+42,RES-044,ALLOCATED,PG-01-R302-B2,Bed allocated
+46,RES-020,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+47,RES-027,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+48,RES-036,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+49,RES-038,ALLOCATED,PG-01-R203-B2,Bed allocated
+50,RES-040,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+52,RES-037,REJECTED,NONE,Resident is not active/allocated
+54,RES-008,ALLOCATED,PG-02-R303-B1,Bed allocated
+59,RES-017,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+60,RES-019,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+61,RES-026,ALLOCATED,PG-02-R103-B1,Bed allocated
+62,RES-029,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+63,RES-037,ALLOCATED,PG-01-R102-B2,Bed allocated
+64,RES-039,ALLOCATED,PG-01-R104-B1,Bed allocated
+70,RES-015,ALLOCATED,PG-02-R303-B2,Bed allocated
+71,RES-025,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+72,RES-043,ALLOCATED,PG-02-R103-B2,Bed allocated
+73,RES-048,ALLOCATED,PG-03-R304-B1,Bed allocated
+74,RES-050,WAITLISTED,NONE,No suitable vacant bed; added to waitlist
+78,RES-029,REJECTED,NONE,Resident is not active/allocated
+79,RES-006,REJECTED,NONE,No active bed offer
+80,RES-007,REJECTED,NONE,Offer expired after 48 hours
+90,RES-011,CHANGED,PG-02-R304-B1,Room changed; fee Rs 1000.00
+98,RES-049,CHANGED,PG-02-R103-B3,Room changed; fee Rs 0.00
+110,RES-012,REJECTED,NONE,Room change blocked due to repeated late payments
